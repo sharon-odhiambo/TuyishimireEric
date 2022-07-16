@@ -21,7 +21,8 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas and solving Problems.
 - 📫 How to reach me: 
 
-   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/Tuyishimire-Eric-32426b21a)     [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuyishimireericc@gmail.com)
+   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()   
+   [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharon.odhiambo@gmail.com)
 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am very flexible to learn new things
+- 😄 I love solving problems
+- ⚡ I'm open to learning
